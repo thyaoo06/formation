@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:developer';
 
 import '../Cours.dart';
 
@@ -27,7 +26,7 @@ class _InfoPageState extends State<InfoPage> {
           ],
         ),
       ),
-      bottomNavigationBar: BottomNavigationBar,
+      //bottomNavigationBar: BottomNavigationBar,
     );
   }
 
