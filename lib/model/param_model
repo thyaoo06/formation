@@ -1,0 +1,7 @@
+class Param {
+  final int _idcar;
+  final String _name;
+  final String _image;
+
+  Param(this._idcar, this._name, this._image);
+}

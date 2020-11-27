@@ -1,13 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:mob/models/auto_model.dart';
-import 'package:mob/homepresenter.dart';
-import 'package:mob/models/auto_model.dart';
-import 'package:mob/addcar.dart';
-import 'package:mob/fillcar.dart';
-import 'package:mob/data/database.dart';
-import 'package:mob/editcar.dart';
+import 'package:formations/model/auto_model.dart';
 
+/*
 class AutoList extends StatelessWidget {
   List<Vehicule> park;
   HomePresenter homePresenter;
@@ -184,3 +179,4 @@ class AutoList extends StatelessWidget {
     );
   }
 }
+*/
